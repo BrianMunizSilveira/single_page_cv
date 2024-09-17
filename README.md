@@ -1,6 +1,10 @@
 # Single Page CV
 
-Este é um projeto de uma página única (Single Page Application) desenvolvido com HTML e CSS para exibir um currículo de maneira simples, eficiente e responsiva. Realizado atráves do site https://roadmap.sh/ na seção de https://roadmap.sh/frontend/projects. 
+Este é um projeto de uma página única (Single Page Application) desenvolvido com HTML e CSS para exibir um currículo de maneira simples, eficiente e responsiva. Realizado atráves do site https://roadmap.sh/
+
+# Acesse o desafio 
+
+Acesse aqui: https://roadmap.sh/projects/single-page-cv
 
 ## Funcionalidades
 
